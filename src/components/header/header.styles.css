@@ -1,0 +1,13 @@
+.header_styling{
+    text-align: center;
+    font-size: 3rem;
+}
+.plusButton{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    z-index: 3;
+}
+.fa-plus-circle{
+    font-size: 3.5rem;
+}
